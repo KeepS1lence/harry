@@ -1,0 +1,18 @@
+body{
+  background-color:blue;
+}
+h1{
+  text-align:center;
+  text-shadow:5px 5px 5px black;
+}
+.pic1{
+  padding-left:500px;
+}
+.text1{
+  padding-left:500px;
+}
+p{
+ width:500px;
+  border:3px solid red;
+  color:LimeGreen;
+}
